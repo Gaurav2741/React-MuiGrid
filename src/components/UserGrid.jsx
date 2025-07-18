@@ -50,6 +50,8 @@ const UserGrid = () => {
         columns={columns}
         checkboxSelection
         disableRowSelectionOnClick
+        Review
+        Mode
         columnReordering
         showToolbar
         columnVisibilityModel={columnVisibilityModel}
